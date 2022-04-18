@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mort1995@hotmail.com
+	name = Morton Nicolaysen
